@@ -1,2 +1,2 @@
 # Webscrapping-FBI
-Um Webscrapping usando API do FBI que filtra dados específicos.
+Um Webscrapping produzido em Python utilizando a API do FBI e filtrando dados específicos para um AML
